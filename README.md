@@ -6,15 +6,15 @@ Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undert
 **MSCs and PhDs positions are available**. Please contact us for further informations.
 
 <dl>
-  <a href="mailto:jacey@unimas.my">Jacey-Lynn Minoi, PhD (Imperial College, UK)</a></br>
-  <a href="mailto:uhamimah@unimas.my">Hamimah Ujir, PhD (Univ. of Birmingham, UK)</a></br>
-  <a href="mailto:mhihipni@unimas.my">Irwandi Hipiny, PhD (Univ. of Bristol, UK)</a>
+  <a href="mailto:jacey@unimas.my">Jacey-Lynn Minoi</a></br>
+  <a href="mailto:uhamimah@unimas.my">Hamimah Ujir</a></br>
+  <a href="mailto:mhihipni@unimas.my">Irwandi Hipiny</a>
 </dl>
 
 ### NEWS & HIGHLIGHTS
 <dl>
 <ul>
-<li><span style="color:powderblue;">We won a bronze medal at UNIMAS R&D Expo 2015 for our UNIMAS-SGS project: Passive Biometric Identification of Sea Turtles. Congratulations to the team!</span>[<a href="https://dl.dropboxusercontent.com/s/41ip2cd3i7j0als/unimasrndexpo2015poster.pdf">low-res poster</a>]</li>
+<li><span style="color:blue;font-weight:bold">We won a bronze medal at UNIMAS R&D Expo 2015 for our UNIMAS-SGS project: Passive Biometric Identification of Sea Turtles. Congratulations to the team!</span> [<a href="https://dl.dropboxusercontent.com/s/41ip2cd3i7j0als/unimasrndexpo2015poster.pdf">low-res poster</a>]</li>
 <li>...</li>
 </ul>
 </dl>
