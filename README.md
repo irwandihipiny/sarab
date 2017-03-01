@@ -15,25 +15,25 @@ Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undert
 <sub> * We won a bronze medal at UNIMAS R&D Expo 2015 for our UNIMAS-SGS project: Passive Biometric Identification of Sea Turtles. Congratulation to the team!</sub>
 
 ### ON-GOING PROJECTS
-Project Name | Primary Investigator | Members | Grant Source | Grant Value
+<sub>Project Name</sub> | <sub>Primary Investigator</sub> | <sub>Members</sub> | <sub>Grant Source</sub> | <sub>Grant Value</sub>
 :------------ | :---------------------|:---------|:--------------|:-------------:
 <sub>Passive Biometric Identification of Sea Turtles `sarab`</sub> | <sub>Irwandi Hipiny</sub> | <sub>Hamimah Ujir, Aazani Mujahid</sub> | <sub>UNIMAS-SGS</sub> | <sub>24,550</sub> |
 <sub>Comparative Analysis of 3D Faces based on Expression Intensity information of Malaysian Ethnics data `sarab`</sub> | <sub>Hamimah Ujir</sub> | <sub>Irwandi Hipiny, Jacey-Lynn Minoi</sub> | <sub>MOHE-RACE</sub>| <sub>46,900</sub> |
 <sub>Background Subtraction in Egocentric Videos Depicting Activities of Daily Living `sarab-cv`</sub> | <sub>Irwandi Hipiny</sub> | <sub>Hamimah Ujir</sub> | <sub>MOHE-RACE</sub> | <sub>46,600</sub> |
 
 ### COMPLETED PROJECTS
-Project Name | Primary Investigator | Members | Grant Source | Grant Value
+<sub>Project Name</sub> | <sub>Primary Investigator</sub> | <sub>Members</sub> | <sub>Grant Source</sub> | <sub>Grant Value</sub>
 :------------ | :---------------------|:---------|:--------------|:-------------:
-3D Facial Features Tracking for 4D Facial Expression Intensity Estimation `sarab` | Hamimah Ujir | Irwandi Hipiny | MOHE-ERGS | 80,750 |
-Evaluation of Existing 3D Facial Features Performance for 3D Facial Expression using UPM-3DFE Database `sarab` |Hamimah Ujir | Irwandi Hipiny | UNIMAS-SGS | 5,000 |
+<sub>3D Facial Features Tracking for 4D Facial Expression Intensity Estimation `sarab`</sub> | <sub>Hamimah Ujir</sub> | <sub>Irwandi Hipiny</sub> | <sub>MOHE-ERGS</sub> | <sub>80,750</sub> |
+<sub>Evaluation of Existing 3D Facial Features Performance for 3D Facial Expression using UPM-3DFE Database `sarab`</sub> |<sub>Hamimah Ujir</sub> | <sub>Irwandi Hipiny</sub> | <sub>UNIMAS-SGS</sub> | <sub>5,000</sub> |
 
 #### LIST OF PUBLICATIONS
-Ujir, H, and Spann, M. Facial Expression Recognition using MPEG-4 FAP-based 3D MMM. In: Natal, R and Tavares, J.M., ed. 2013. Lecture Notes in Computational Vision and Biomechanics: Medical Image Processing and Computational Vision. Springer-Verlag, pp. 63-68.
+<sub>Ujir, H, and Spann, M. Facial Expression Recognition using MPEG-4 FAP-based 3D MMM. In: Natal, R and Tavares, J.M., ed. 2013. Lecture Notes in Computational Vision and Biomechanics: Medical Image Processing and Computational Vision. Springer-Verlag, pp. 63-68.</sub>
 
-Ujir, H, Spann, M. and Hipiny, I.H.M. 2014. 3D Facial Expression Classification Using 3D Facial Surface Normals. The 8th International Conference on Robotic, Vision, Signal Processing & Power Applications (ROViSP), Volume 291 of the series Lecture Notes in Electrical Engineering, pp 245-253.
+<sub>Ujir, H, Spann, M. and Hipiny, I.H.M. 2014. 3D Facial Expression Classification Using 3D Facial Surface Normals. The 8th International Conference on Robotic, Vision, Signal Processing & Power Applications (ROViSP), Volume 291 of the series Lecture Notes in Electrical Engineering, pp 245-253.</sub>
 
-Ujir, H. Assan, C., Hipiny, I, Iskandar, DNF. 2015. 3D Measures and Geometric Facial Features Analysis on 3D Facial Action Unit Recognition. Advanced Science Letters 21 (12), 3703-3707.
+<sub>Ujir, H. Assan, C., Hipiny, I, Iskandar, DNF. 2015. 3D Measures and Geometric Facial Features Analysis on 3D Facial Action Unit Recognition. Advanced Science Letters 21 (12), 3703-3707.</sub>
 
-Ujir, H., Lai, C.S. and Hipiny, I. 2014.  A Modular Approach and Voting Scheme on 3D Face Recognition. The International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), 1st -4th December 2014.
+<sub>Ujir, H., Lai, C.S. and Hipiny, I. 2014.  A Modular Approach and Voting Scheme on 3D Face Recognition. The International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), 1st -4th December 2014.</sub>
 
-Hipiny, I.  and Ujir, H. 2015. Measuring Task Performance Using Gaze Regions. IEEE 9th International Conference for Information Technology in Asia (CITA’15), 4th-5th August 2015, Kuching, Malaysia.
+<sub>Hipiny, I.  and Ujir, H. 2015. Measuring Task Performance Using Gaze Regions. IEEE 9th International Conference for Information Technology in Asia (CITA’15), 4th-5th August 2015, Kuching, Malaysia.</sub>
