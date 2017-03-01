@@ -12,14 +12,14 @@ Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undert
 </dl>
 
 ### NEWS & HIGHLIGHTS
-<sub>* We won a bronze medal at UNIMAS R&D Expo 2015 for our UNIMAS-SGS project: Passive Biometric Identification of Sea Turtles. Congratulation to the team!</sub>
+<sub> * We won a bronze medal at UNIMAS R&D Expo 2015 for our UNIMAS-SGS project: Passive Biometric Identification of Sea Turtles. Congratulation to the team!</sub>
 
 ### ON-GOING PROJECTS
 Project Name | Primary Investigator | Members | Grant Source | Grant Value
 :------------ | :---------------------|:---------|:--------------|:-------------:
-Passive Biometric Identification of Sea Turtles `sarab` | Irwandi Hipiny | Hamimah Ujir, Aazani Mujahid | UNIMAS-SGS | 24,550 |
-Comparative Analysis of 3D Faces based on Expression Intensity information of Malaysian Ethnics data `sarab` | Hamimah Ujir | Irwandi Hipiny, Jacey-Lynn Minoi | MOHE-RACE| 46,900 |
-Background Subtraction in Egocentric Videos Depicting Activities of Daily Living `sarab-cv` | Irwandi Hipiny | Hamimah Ujir | MOHE-RACE | 46,600 |
+<sub>Passive Biometric Identification of Sea Turtles `sarab`</sub> | <sub>Irwandi Hipiny</sub> | <sub>Hamimah Ujir, Aazani Mujahid</sub> | <sub>UNIMAS-SGS</sub> | <sub>24,550</sub> |
+<sub>Comparative Analysis of 3D Faces based on Expression Intensity information of Malaysian Ethnics data `sarab`</sub> | <sub>Hamimah Ujir</sub> | <sub>Irwandi Hipiny, Jacey-Lynn Minoi</sub> | <sub>MOHE-RACE</sub>| <sub>46,900</sub> |
+<sub>Background Subtraction in Egocentric Videos Depicting Activities of Daily Living `sarab-cv`</sub> | <sub>Irwandi Hipiny</sub> | <sub>Hamimah Ujir</sub> | <sub>MOHE-RACE</sub> | <sub>46,600</sub> |
 
 ### COMPLETED PROJECTS
 Project Name | Primary Investigator | Members | Grant Source | Grant Value
