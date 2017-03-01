@@ -3,6 +3,13 @@
 ### ABOUT US
 Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undertake innovative, collaborative and interdisciplinary research resulting in world leading technology in the areas of biometrics and computer vision. SARAB was formed in 2016, consisting of members from multi-disciplinary backgrounds. The group offers shared and complementary strengths and aims to be the leading and authoritative body on research for biometrics (`sarab`) and computer vision (`sarab-cv`) in Malaysia.
 
+**Our Link:**
+
+<img src="https://dl.dropboxusercontent.com/s/d4yt5cewuax9cjl/QR.png" width="125">
+```json
+bit.do/sarab-my
+```
+
 **MSCs and PhDs positions are available**. Please contact us for further informations.
 
 <dl>
@@ -10,7 +17,7 @@ Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undert
   <a href="mailto:uhamimah@unimas.my">Hamimah Ujir</a></br>
   <a href="mailto:mhihipni@unimas.my">Irwandi Hipiny</a>
 </dl>
-
+---
 ### NEWS & HIGHLIGHTS
 
 <dl>
@@ -20,22 +27,20 @@ Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undert
 <li> FCSIT Face Recognition Mobile App, Bronze medal in Innovation Technology Expo 2016</li>
 </ul>
 </dl>
-
-
-
+---
 ### ON-GOING PROJECTS
 <sub>Project Name</sub> | <sub>Primary Investigator</sub> | <sub>Members</sub> | <sub>Grant Source</sub> | <sub>Grant Value</sub>
 :------------ | :---------------------|:---------|:--------------|:-------------:
 <sub>Passive Biometric Identification of Sea Turtles `sarab`</sub> | <sub>Irwandi Hipiny</sub> | <sub>Hamimah Ujir, Aazani Mujahid</sub> | <sub>UNIMAS-SGS</sub> | <sub>24,550</sub> |
 <sub>Comparative Analysis of 3D Faces based on Expression Intensity information of Malaysian Ethnics data `sarab`</sub> | <sub>Hamimah Ujir</sub> | <sub>Irwandi Hipiny, Jacey-Lynn Minoi</sub> | <sub>MOHE-RACE</sub>| <sub>46,900</sub> |
 <sub>Background Subtraction in Egocentric Videos Depicting Activities of Daily Living `sarab-cv`</sub> | <sub>Irwandi Hipiny</sub> | <sub>Hamimah Ujir</sub> | <sub>MOHE-RACE</sub> | <sub>46,600</sub> |
-
+---
 ### COMPLETED PROJECTS
 <sub>Project Name</sub> | <sub>Primary Investigator</sub> | <sub>Members</sub> | <sub>Grant Source</sub> | <sub>Grant Value</sub>
 :------------ | :---------------------|:---------|:--------------|:-------------:
 <sub>3D Facial Features Tracking for 4D Facial Expression Intensity Estimation `sarab`</sub> | <sub>Hamimah Ujir</sub> | <sub>Irwandi Hipiny</sub> | <sub>MOHE-ERGS</sub> | <sub>80,750</sub> |
 <sub>Evaluation of Existing 3D Facial Features Performance for 3D Facial Expression using UPM-3DFE Database `sarab`</sub> |<sub>Hamimah Ujir</sub> | <sub>Irwandi Hipiny</sub> | <sub>UNIMAS-SGS</sub> | <sub>5,000</sub> |
-
+---
 #### LIST OF PUBLICATIONS
 <sub>Ujir, H, and Spann, M. Facial Expression Recognition using MPEG-4 FAP-based 3D MMM. In: Natal, R and Tavares, J.M., ed. 2013. Lecture Notes in Computational Vision and Biomechanics: Medical Image Processing and Computational Vision. Springer-Verlag, pp. 63-68.</sub>
 
