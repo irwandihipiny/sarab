@@ -5,6 +5,12 @@ Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undert
 
 **MSCs and PhDs positions are available**. Please contact us for further informations.
 
+<dl>
+  <a href="mailto:jacey@unimas.my">Jacey-Lynn Minoi, PhD (Imperial College, UK)</a>
+  <a href="mailto:uhamimah@unimas.my">Hamimah Ujir, PhD (Univ. of Birmingham, UK)</a>
+  <a href="mailto:mhihipni@unimas.my">Irwandi Hipiny, PhD (Univ. of Bristol, UK)</a>
+</dl>
+
 ### ON-GOING PROJECTS
 Project Name | Primary Investigator | Members | Grant Source | Grant Value
 :------------ | :---------------------|:---------|:--------------|:-------------:
