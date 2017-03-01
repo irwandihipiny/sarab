@@ -14,8 +14,11 @@ Sarawak Biometrics Group, SARAB, of Universiti Malaysia Sarawak exists to undert
 ### NEWS & HIGHLIGHTS
 
 <dl>
-<p style="color=blue">We won a bronze medal at UNIMAS R&D Expo 2015 for Passive Biometric Identification of Sea Turtles project. Congratulations to the team! [<a href="https://dl.dropboxusercontent.com/s/41ip2cd3i7j0als/unimasrndexpo2015poster.pdf">low-res poster</a>]
-</p>
+<ul>
+<li>We won a bronze medal at UNIMAS R&D Expo 2015 for Passive Biometric Identification of Sea Turtles project. Congratulations to the team! [<a href="https://dl.dropboxusercontent.com/s/41ip2cd3i7j0als/unimasrndexpo2015poster.pdf">low-res poster</a>]
+</li>
+<li>...</li>
+</ul>
 </dl>
 
 
